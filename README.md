@@ -1,1 +1,1 @@
-# palenight
+clean ui for discord
