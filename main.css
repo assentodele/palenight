@@ -216,7 +216,11 @@ div[id = "balance-widget-pill"] {
     margin-right: 75px;
 }
 
-div[class = "searchBar__97492"] {
-    margin-right: -60px;
+div[class="search__49676"] {
+    margin-right: -50px;
+}
+
+div[aria-label="New Group DM"] {
+    display: none;
 }
 
