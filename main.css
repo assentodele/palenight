@@ -227,3 +227,7 @@ div[aria-label="New Group DM"] {
 div[aria-label="Inbox"] {
     display: none;
 }
+
+div[class="searchBar__35e86"] {
+    display: none;
+}
