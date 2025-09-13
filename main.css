@@ -212,7 +212,7 @@ div[aria-label="Notifications"] {
     display: none !important;
 }
 
-div[id = "balance-widget-pill"] {
+div[id="balance-widget-pill"] {
     margin-right: 75px;
 }
 
@@ -224,3 +224,6 @@ div[aria-label="New Group DM"] {
     display: none;
 }
 
+div[aria-label="Inbox"] {
+    display: none;
+}
